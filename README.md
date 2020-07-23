@@ -1,7 +1,7 @@
 # ap-readability
 
 ## Description
-null
+Readability practice assignment given in AP Computer Science
 
 ### Tags
 [Java, Application]
